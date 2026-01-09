@@ -1,0 +1,11 @@
+{
+  "name": "fluxo-website",
+  "version": "1.0.0",
+  "description": "Static site with live-server",
+  "scripts": {
+    "dev": "live-server --open=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
